@@ -39,7 +39,7 @@ gtkmm, gnomemm i libsigc++.
 %setup -q
 
 %build
-gettextize --copy --force
+%{__gettextize}
 aclocal -I macros
 %{__autoconf}
 %{__automake}
