@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications/Sound
 Source0:	http://www.penguin.cz/~slezak/%{name}-%{version}.tar.gz
+# Source0-md5:	c8c21cf4d2f67be1c19a4cd098db2b88
 URL:		http://www.penguin.cz/~slezak/
 BuildRequires:	autoconf
 BuildRequires:	automake
