@@ -40,7 +40,7 @@ gtkmm, gnomemm i libsigc++.
 
 %build
 %{__gettextize}
-aclocal -I macros
+%{__aclocal} -I macros
 %{__autoconf}
 %{__automake}
 %configure
