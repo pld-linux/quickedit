@@ -30,10 +30,10 @@ libsigc++.
 Quickedit to prosty edytor d¼wiêku dla GNOME, potrafi±cy modyfikowaæ
 pliki WAV i MP3.
 
-Do odtwarzania plików MP3 jest u¿ywany zewnêtrzny mpg123, pliki WAV
-s± odtwarzane bezpo¶rednio. Do zapisu plików MP3 jest u¿ywany koder
-lame, do konwersji d¼wiêku sox. Quickedit jest napisany w C++ z
-u¿yciem gtkmm, gnomemm i libsigc++.
+Do odtwarzania plików MP3 jest u¿ywany zewnêtrzny mpg123, pliki WAV s±
+odtwarzane bezpo¶rednio. Do zapisu plików MP3 jest u¿ywany koder lame,
+do konwersji d¼wiêku sox. Quickedit jest napisany w C++ z u¿yciem
+gtkmm, gnomemm i libsigc++.
 
 %prep
 %setup -q
