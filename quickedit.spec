@@ -4,7 +4,7 @@ Name:		quickedit
 Version:	0.3
 Release:	1
 License:	GPL
-Group:		X11/Applications/Multimedia
+Group:		X11/Applications/Sound
 Source0:	http://www.penguin.cz/~slezak/%{name}-%{version}.tar.gz
 URL:		http://www.penguin.cz/~slezak/
 BuildRequires:	autoconf
