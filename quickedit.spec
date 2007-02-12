@@ -1,5 +1,5 @@
 Summary:	Simple sound editor for GNOME
-Summary(pl):	Prosty edytor d¼wiêku dla GNOME
+Summary(pl.UTF-8):   Prosty edytor dÅºwiÄ™ku dla GNOME
 Name:		quickedit
 Version:	0.3
 Release:	1
@@ -25,13 +25,13 @@ sound conversions sox utility. Quickedit is written in C++ and
 requires C++ wrappers gtkmm and gnomemm, for signal system is used
 libsigc++.
 
-%description -l pl
-Quickedit to prosty edytor d¼wiêku dla GNOME, potrafi±cy modyfikowaæ
+%description -l pl.UTF-8
+Quickedit to prosty edytor dÅºwiÄ™ku dla GNOME, potrafiÄ…cy modyfikowaÄ‡
 pliki WAV i MP3.
 
-Do odtwarzania plików MP3 jest u¿ywany zewnêtrzny mpg123, pliki WAV s±
-odtwarzane bezpo¶rednio. Do zapisu plików MP3 jest u¿ywany koder lame,
-do konwersji d¼wiêku sox. Quickedit jest napisany w C++ z u¿yciem
+Do odtwarzania plikÃ³w MP3 jest uÅ¼ywany zewnÄ™trzny mpg123, pliki WAV sÄ…
+odtwarzane bezpoÅ›rednio. Do zapisu plikÃ³w MP3 jest uÅ¼ywany koder lame,
+do konwersji dÅºwiÄ™ku sox. Quickedit jest napisany w C++ z uÅ¼yciem
 gtkmm, gnomemm i libsigc++.
 
 %prep
