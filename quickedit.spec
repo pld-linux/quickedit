@@ -1,5 +1,5 @@
 Summary:	Simple sound editor for GNOME
-Summary(pl.UTF-8):   Prosty edytor dźwięku dla GNOME
+Summary(pl.UTF-8):	Prosty edytor dźwięku dla GNOME
 Name:		quickedit
 Version:	0.3
 Release:	1
