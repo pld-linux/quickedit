@@ -10,7 +10,7 @@ Source0:	http://www.penguin.cz/~slezak/%{name}-%{version}.tar.gz
 URL:		http://www.penguin.cz/~slezak/
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	libtool
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
